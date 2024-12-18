@@ -14,7 +14,7 @@ dist-ssr
 build/
 .env
 .DS_Store
-Firebase
+Firebaseconfig.jsx
 
 # Editor directories and files
 .vscode/*
